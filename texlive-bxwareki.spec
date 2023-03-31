@@ -1,6 +1,6 @@
 Name:		texlive-bxwareki
 Version:	51286
-Release:	1
+Release:	2
 Summary:	Convert dates from Gregorian to Japanese calender
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bxwareki
