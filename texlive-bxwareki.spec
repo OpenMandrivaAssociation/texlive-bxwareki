@@ -3,7 +3,7 @@ Version:	67594
 Release:	1
 Summary:	Convert dates from Gregorian to Japanese calender
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bxwareki
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bxwareki
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxwareki.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxwareki.doc.r%{version}.tar.xz
